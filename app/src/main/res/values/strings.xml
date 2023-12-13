@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Myalarmapp</string>
+    <string name="edit">Edit</string>
+    <string name="setting">Setting</string>
+    <string name="add">add</string>
+    <string name="set_alarm">SET ALARM</string>
+    <string name="cancel">CANCEL</string>
+</resources>
